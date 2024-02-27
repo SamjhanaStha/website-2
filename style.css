@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    
+}
+
+nav{
+    background-color: #0f1111;
+    height: 60px;
+}
+
+#logo{
+    color: yellow;
+    font-size: 25px;
+}
+
+a{
+    margin: 100px;
+    text-decoration: none;
+}
+
+button{
+    color: #f08804;
+}
+
+#content{
+    height:100%px;
+    
+}
+
+.contentBox1{
+    background-image: url(dress.jpg);
+    background-size: cover;
+    height:200px;
+    width:1300px;
+    margin:20px ;
+    padding: 20px;
+    border: 5px solid black;
+    display: inline-block;
+}
+
+.contentBox2{
+    background-color: cadetblue;
+    background-image:url(off.jpg);
+    background-size: cover;
+    height: 200px;
+    width: 250px;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 700;
+    color:rgba(160, 14, 14, 0.75);
+  
+  
+
+
+} 
+
+.contentBox3{
+    background-color: chocolate;
+    background-image: url(kumari.jpg);
+    background-size: cover;
+    height: 250px;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+   
+}
+
+h5{
+    text-transform: capitalize;
+    color: black;
+    font-size: 20px;
+    text-decoration: solid underline;
+    
+}
+
+main{
+    background-color: #B7C9F2;
+}
+
+ form{
+    text-align: left;
+    color: black;
+    font-size: 16px;
+ }
+
+ textarea{
+    color: black;
+ }
+
+input{
+    color: black;
+} 
+
+button{
+    color: #f08804;
+}
+
+footer{
+    background-color: #0f1111;
+    text-align: center;
+}
